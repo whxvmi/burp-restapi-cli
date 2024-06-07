@@ -1,4 +1,4 @@
-# burp-api-cli
+# burp-restapi-cli
 Scan and get results from cli with burp api. Supports url list from local file.
 
 
