@@ -1,5 +1,5 @@
 # burp-api-cli
-Scan and get results from cli with burp api
+Scan and get results from cli with burp api. Supports url list from local file.
 
 
 # Prep
@@ -8,7 +8,7 @@ Scan and get results from cli with burp api
 
 # Usage
 
-`./scan.sh testphp.vulnweb.com `
+`./scan.sh url-list.txt `
 
 # Results
 
